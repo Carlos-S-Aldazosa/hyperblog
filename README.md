@@ -7,5 +7,7 @@ Un blog creado en el [curso de Git y Github](https://platzi.com/cursos/git-githu
 * Todos los comandos de Git.
 * El flujo de trabajo de Github.
 * El verdadero amor or las buenas practicas.
-* Trucos muy locos del profesor.
-* Creado por el increible Platzi Team
+* Creado por el increible Platzi Team.
+* Incluye ejemplos en WIndows, Linux y Mac.
+* Disponible para todas las edades.
+
